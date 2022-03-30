@@ -1,1 +1,1 @@
-- 👋 Hi, I’m @ajitdevkota
+- 👋 Hi, I’m @ajit
