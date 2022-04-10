@@ -1,4 +1,4 @@
-![Header](./ajit-header-image.png.png)
+![Header](./ajit-header-image.png)
 
 
 ## 📈 My GitHub Stats:
